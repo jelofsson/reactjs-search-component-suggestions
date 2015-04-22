@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Fast & Furious 7",
+        "rating": "7,9",
+        "length": "137 min",
+        "director": "James Wan"
+    },
+    {
+        "title": "Home",
+        "rating": "6,8",
+        "length": "94 min",
+        "director": "Tim Johnson"
+    },
+    {
+        "title": "Insurgent",
+        "rating": "6,9",
+        "length": "119 min",
+        "director": "Robert Schwentke"
+    },
+    {
+        "title": "Interstellar",
+        "rating": "8,7",
+        "length": "169 min",
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "rating": "8,8",
+        "length": "178 min",
+        "director": "Peter Jackson"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "rating": "8,8",
+        "length": "201 min",
+        "director": "Peter Jackson"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "rating": "8,9",
+        "length": "178 min",
+        "director": "Peter Jackson"
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "rating": "8,8",
+        "length": "179 min",
+        "director": "Peter Jackson"
+    },
+    {
+        "title": "Matrix",
+        "rating": "8,7",
+        "length": "136 min",
+        "director": "The Wachowski Brothers"
+    },
+    {
+        "title": "Fight Club",
+        "rating": "8,9",
+        "length": "139 min",
+        "director": "David Fincher"
+    },
+    {
+        "title": "Inception",
+        "rating": "8,8",
+        "length": "148 min",
+        "director": "Christopher Nolan"
+    },
+    {
+        "title": "Gladiator",
+        "rating": "8,5",
+        "length": "155 min",
+        "director": "Ridley Scott"
+    }
+]
